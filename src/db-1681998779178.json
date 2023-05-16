@@ -1,0 +1,108 @@
+{
+  "seller": [
+    {
+      "Name": "Mayuri",
+      "Password": "abc",
+      "Email": "mayurikokane318@gmail.com",
+      "id": 1
+    },
+    {
+      "Name": "ddftgyhju",
+      "Password": "adf",
+      "email": "jgdf",
+      "id": 2
+    },
+    {
+      "Name": "mayuri",
+      "Password": "abc@123",
+      "email": "mayurikokane318@gmail.com",
+      "id": 3
+    },
+    {
+      "Name": "matyuiu",
+      "Password": "gfs",
+      "email": "ccxz",
+      "id": 4
+    },
+    {
+      "Name": "mayuri",
+      "Password": "asfdg",
+      "email": "mayurikokane318@gmail.com",
+      "id": 5
+    },
+    {
+      "Name": "",
+      "Password": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "Name": "mayuri",
+      "Password": "abc123",
+      "email": "mayurikokane318@gmail.com",
+      "id": 7
+    },
+    {
+      "Name": "",
+      "Password": "",
+      "email": "",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "truck",
+      "price": "1000",
+      "category": "smart mobile",
+      "color": "black",
+      "description": "good",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 4
+    },
+    {
+      "name": "apple",
+      "price": "1234",
+      "category": "mobile",
+      "color": "black",
+      "description": "goog",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "price": "23345",
+      "category": "mobile",
+      "color": "black",
+      "description": "good",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 6
+    },
+    {
+      "name": "watch",
+      "price": "23457",
+      "category": "smart mobile",
+      "color": "black",
+      "description": "good",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "oopo",
+      "price": "2345",
+      "category": "smart mobile",
+      "color": "black",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 8
+    },
+    {
+      "name": "oopo12",
+      "price": "2000",
+      "category": "mobile",
+      "color": "black",
+      "description": "it is good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 20
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+table{
+    text-align: center;
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    border-collapse: collapse;
+}
+table tr, table td{
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    padding: 10px;
+    min-height: 160px;
+}
+thead{
+    color: blueviolet;
+ border: 2px;
+    padding: 10px;
+    min-height: 160px;
+}
+
+.adjust-btn{
+margin-left: 10px;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to right,#b8aebe,#c2c1c4);
+}
+
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin: auto;
+    width: 350px;
+}
+.form-input{
+    margin-bottom: 20px;
+    padding-left: 15px;
+    height: 35px;
+    border: 1px solid rgb(15, 14, 16);
+    color: rgb(35, 33, 37);
+
+}
+.form-button{
+    cursor: pointer;
+    height: 35px;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+}
+.error-p{
+    color: red;
+    text-align: center;
+}
+.message_p
+{
+    color: green;
+    text-align: center;
+}
+.carousel-caption{
+    border-radius: 5px;
+    background-color: gray;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon
+{
+    background-color: black;
+    border-radius: 5px;
+}
+
+.invalid-input{
+    color: red;
+    font-size: 12px;
+    margin-top: -20px;
+}
+button:disabled{
+    cursor: not-allowed;
+}
